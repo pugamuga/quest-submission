@@ -12,3 +12,7 @@ Chapter 1, Day 2
    4)Developer Experience
    5)Resource Oriented Programming
 2. It's way easier develop and use smart-contract and working with dapps.
+
+Chapter 2, Day 1
+![image](https://user-images.githubusercontent.com/106821486/172180008-033721bf-dffd-4403-b557-0fa770cbc040.png)
+
