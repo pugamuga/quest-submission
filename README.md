@@ -5,4 +5,10 @@ Chapter 1, Day 1
 2. Smart-contract - it's a part of code which adding in blockchain some functions and parameters and anyone can call it.
 3. Script - only show data (it's free); Transaction - change data in blockchain (it's cost some money)
 
-
+Chapter 1, Day 2
+1. 1)Safety and Security
+   2)Clarity
+   3)Approachability
+   4)Developer Experience
+   5)Resource Oriented Programming
+2. It's way easier develop and use smart-contract and working with dapps.
