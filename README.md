@@ -13,6 +13,21 @@ Chapter 1, Day 2
    5)Resource Oriented Programming
 2. It's way easier develop and use smart-contract and working with dapps.
 
-Chapter 2, Day 1
+Chapter 2, Day 1 
+<div>
 <img src="image\Screenshot_1.png">
+</div>
 
+Chapter 2, Day 2
+1. Becouse changeGreeting just a script - we can only view, not modify.
+2. It's give access to my data that stored in account.
+3. Prepare phase - give access; Execute phase - change data in smart-contract.
+4. <div>
+<img src="image\Screenshot_2.png">
+</div>
+<div>
+<img src="image\Screenshot_3.png">
+</div>
+<div>
+<img src="image\Screenshot_4.png">
+</div>
